@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9d6c83f.css",
-    "main.js": "/static/js/main.29dd7e1c.js",
+    "main.css": "/static/css/main.954ff446.css",
+    "main.js": "/static/js/main.7be7647a.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -15,15 +15,18 @@
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/flipkart.jpg": "/static/media/flipkart.a70f6a2cafc03263f498.jpg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "static/media/titan.jpg": "/static/media/titan.2561be044b4675603755.jpg",
     "static/media/starbucks.png": "/static/media/starbucks.682987e212f2bc64a1aa.png",
+    "static/media/bookmyshow.png": "/static/media/bookmyshow.d02638f3d49321adb5d1.png",
     "index.html": "/index.html",
-    "main.b9d6c83f.css.map": "/static/css/main.b9d6c83f.css.map",
-    "main.29dd7e1c.js.map": "/static/js/main.29dd7e1c.js.map"
+    "main.954ff446.css.map": "/static/css/main.954ff446.css.map",
+    "main.7be7647a.js.map": "/static/js/main.7be7647a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9d6c83f.css",
-    "static/js/main.29dd7e1c.js"
+    "static/css/main.954ff446.css",
+    "static/js/main.7be7647a.js"
   ]
 }
