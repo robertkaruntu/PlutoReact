@@ -1,0 +1,1 @@
+export const API_URL = "https://lb-plutoAPI-tf-1411478274.us-east-2.elb.amazonaws.com/";
